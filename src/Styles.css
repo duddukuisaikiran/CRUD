@@ -1,0 +1,16 @@
+label {
+    display : block;
+    margin-left : auto ;
+    margin-right: auto;
+}
+input {
+    display : block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 5px;
+}
+form {
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 25%;
+}
